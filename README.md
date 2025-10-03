@@ -1,3 +1,6 @@
+<img width="1178" height="812" alt="image" src="https://github.com/user-attachments/assets/b20fb687-97e6-4601-a976-5994e62bdc39" />
+
+
 # Domain Takeover Scanner
 
 
