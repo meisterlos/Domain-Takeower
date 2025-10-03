@@ -1,6 +1,5 @@
 # Domain Takeover Scanner
 
-🔍 **White Hat Security Tool** - Domain Takeover Vulnerability Detection
 
 ## Özellikler
 
@@ -29,7 +28,7 @@
 
 ## Kurulum
 
-```bash
+```
 # Gerekli paketleri yükle
 pip install -r requirements.txt
 
@@ -39,7 +38,7 @@ pip install -r requirements.txt
 
 ## Kullanım
 
-```bash
+```
 python domain_takeover_scanner.py
 ```
 
@@ -80,13 +79,6 @@ python domain_takeover_scanner.py
 
 Bu proje eğitim amaçlıdır. Sorumluluk kullanıcıya aittir.
 
-## Katkıda Bulunma
-
-1. Fork yapın
-2. Feature branch oluşturun
-3. Commit yapın
-4. Push yapın
-5. Pull Request açın
 
 ## İletişim
 
